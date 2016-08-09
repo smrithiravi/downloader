@@ -1,0 +1,12 @@
+{
+    "maxWaitTimeInSecs" : 1200,
+    "downloadDestination" : "/Users/sravi/download_dir",
+    "numThreads" : 5,
+    "socketTimeOut": 50000,
+    "connectionTimeOut": 50000,
+    "knownFTPHostsFilename" : "/Users/sravi/.ssh/known_hosts",
+    "username":"sravi",
+    "password":"",
+    "keyFileName": "/Users/sravi/.ssh/id3_rsa",
+    "passphrase": ""
+}
